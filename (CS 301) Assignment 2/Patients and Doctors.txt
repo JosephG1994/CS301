@@ -1,0 +1,569 @@
+Doctors:
+      
+Bunsen Honeydew     PED
+Stephen Strange     SUR
+Thomas Wayne        GEN
+Bob Jones           CAR
+
+Patients:
+Charlie Brown 8
+Sally Brown 6
+Andy Davis 12
+Homer Simpson 39
+Shaggy Rogers 17
+Ranger Smith 35
+Yosemite Sam 45
+Fred Flinstone 30
+Archie Andrews 16
+
+
+************************** N E W    S E S S I O N **************************
+****************************************************************************
+
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 1
+
+	DOCTOR CHECK-IN
+
+Enter a room number (1-20): 1
+Room #1 is available.
+Please enter the doctor's name: Bunsen Honeydew
+Select a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Enter Selection: 1
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 1
+
+	DOCTOR CHECK-IN
+
+Enter a room number (1-20): 2
+Room #2 is available.
+Please enter the doctor's name: Stephen Strange
+Select a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Enter Selection: 5
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 1
+
+	DOCTOR CHECK-IN
+
+Enter a room number (1-20): 3
+Room #3 is available.
+Please enter the doctor's name: Thomas Wayne
+Select a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Enter Selection: 2
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 7
+
+Invalid Entry! Try again.
+
+Enter selection: 1
+
+	DOCTOR CHECK-IN
+
+Enter a room number (1-20): 3
+Room #3 is unavailable. Please select another room.
+
+Enter a room number (1-20): 33
+
+Invalid Entry! Try again.
+
+Enter a room number (1-20): 4
+Room #4 is available.
+Please enter the doctor's name: Bob Jones
+Select a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Enter Selection: 4
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 3
+
+	PATIENT CHECK-IN
+
+Enter the patient's name: Charlie Brown
+Enter the patient's age: 8
+Enter the patient's emergency indication (30 characters max):
+He has a stomach ache.
+
+Select a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Enter Selection: 1
+-------------------------------------------------------
+Please direct the patient to:
+	Room #1
+	Dr. Bunsen Honeydew
+	Pediatrics (PED)
+-------------------------------------------------------
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 3
+
+	PATIENT CHECK-IN
+
+Enter the patient's name: Sally Brown
+Enter the patient's age: 6
+Enter the patient's emergency indication (30 characters max):
+She has a headache.
+
+Select a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Enter Selection: 1
+-------------------------------------------------------
+Please direct the patient to:
+	Room #1
+	Dr. Bunsen Honeydew
+	Pediatrics (PED)
+-------------------------------------------------------
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 3
+
+	PATIENT CHECK-IN
+
+Enter the patient's name: Andy Davis
+Enter the patient's age: 12
+Enter the patient's emergency indication (30 characters max):
+He has a sore foot.
+
+Select a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Enter Selection: 1
+-------------------------------------------------------
+Please direct the patient to:
+	Room #1
+	Dr. Bunsen Honeydew
+	Pediatrics (PED)
+-------------------------------------------------------
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 3
+
+	PATIENT CHECK-IN
+
+Enter the patient's name: Archie Andrews
+Enter the patient's age: 16
+Enter the patient's emergency indication (30 characters max):
+He has a sore throat.
+
+Select a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Enter Selection: 2
+-------------------------------------------------------
+Please direct the patient to:
+	Room #3
+	Dr. Thomas Wayne
+-------------------------------------------------------
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 3
+
+	PATIENT CHECK-IN
+
+Enter the patient's name: Homer Simpson
+Enter the patient's age: 39
+Enter the patient's emergency indication (30 characters max):
+He's having heart surgery.
+
+Select a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Enter Selection: 5
+-------------------------------------------------------
+Please direct the patient to:
+	Room #2
+	Dr. Stephen Strange
+-------------------------------------------------------
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 3
+
+	PATIENT CHECK-IN
+
+Enter the patient's name: Shaggy Rogers
+Enter the patient's age: 17
+Enter the patient's emergency indication (30 characters max):
+He has a heart check up.
+
+Select a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Enter Selection: 4
+-------------------------------------------------------
+Please direct the patient to:
+	Room #4
+	Dr. Bob Jones
+-------------------------------------------------------
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 3
+
+	PATIENT CHECK-IN
+
+Enter the patient's name: Fred Flinstone
+Enter the patient's age: 30
+Enter the patient's emergency indication (30 characters max):
+He has a physical today.
+
+Select a specialty from the list below:
+	1.  PED  Pediatrics
+	2.  GEN  General Practice
+	3.  INT  Internal Medicine
+	4.  CAR  Cardiology
+	5.  SUR  Surgeon
+	6.  OBS  Obstetrics
+	7.  PSY  Psychiatry
+	8.  NEU  Neurology
+	9.  ORT  Orthopedics
+	10. DET  Dermatology
+	11. OPT  Ophthalmology
+	12. ENT  Ear, Nose, and Throat
+Enter Selection: 2
+-------------------------------------------------------
+Please direct the patient to:
+	Room #3
+	Dr. Thomas Wayne
+-------------------------------------------------------
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 5
+
+	OCCUPIED ROOMS
+
+-------------------------------------------------------
+Room #1
+Dr. Bunsen Honeydew
+Specialty: 1
+Patients: 3
+-------------------------------------------------------
+
+-------------------------------------------------------
+Room #2
+Dr. Stephen Strange
+Specialty: 5
+Patients: 1
+-------------------------------------------------------
+
+-------------------------------------------------------
+Room #3
+Dr. Thomas Wayne
+Specialty: 2
+Patients: 2
+-------------------------------------------------------
+
+-------------------------------------------------------
+Room #4
+Dr. Bob Jones
+Specialty: 4
+Patients: 1
+-------------------------------------------------------
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 4
+
+	PATIENT CHECK-OUT
+
+Enter the room number: 1
+Goodbye Charlie Brown.
+PATIENT Charlie Brown has checked out of room #1.
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 2
+
+	DOCTOR CHECK-OUT
+
+Enter a room number (1-20): 4
+Goodbye Dr. Bob Jones.
+Dr. Bob Jones has checked out of the room.
+
+Reassigning Patient 1: Shaggy Rogers
+-------------------------------------------------------
+Please direct the patient to:
+	Room #3
+	Dr. Thomas Wayne
+	General Practice (GEN)
+-------------------------------------------------------
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 4
+
+	PATIENT CHECK-OUT
+
+Enter the room number: 3
+Goodbye Archie Andrews.
+PATIENT Archie Andrews has checked out of room #3.
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 4
+
+	PATIENT CHECK-OUT
+
+Enter the room number: 1
+Goodbye Sally Brown.
+PATIENT Sally Brown has checked out of room #1.
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 2
+
+	DOCTOR CHECK-OUT
+
+Enter a room number (1-20): 1
+Goodbye Dr. Bunsen Honeydew.
+Dr. Bunsen Honeydew has checked out of the room.
+
+Reassigning Patient 1: Andy Davis
+There is no pediatric doctor available.
+Searching for general practitioner (GEN).
+
+-------------------------------------------------------
+Please direct the patient to:
+	Room #3
+	Dr. Thomas Wayne
+	General Practice (GEN)
+-------------------------------------------------------
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 5
+
+	OCCUPIED ROOMS
+
+-------------------------------------------------------
+Room #2
+Dr. Stephen Strange
+Specialty: 5
+Patients: 1
+-------------------------------------------------------
+
+-------------------------------------------------------
+Room #3
+Dr. Thomas Wayne
+Specialty: 2
+Patients: 3
+-------------------------------------------------------
+
+	WELCOME TO THE LOCAL MEDICAL CLINIC
+	1. Doctor Check-In
+	2. Doctor Check-Out
+	3. Patient Check-In
+	4. Patient Check-Out
+	5. Show Occupied Rooms
+	6. Exit
+Enter selection: 6
+
+	PROGRAM ENDING......
